@@ -27,8 +27,10 @@ Unirest==1.1.7
 uritemplate==3.0.0    
 webcolors==1.7     
 
-# MUST:    
-Make sure you have appropriate google authentication for connecting to Google APIs, other external APIs mentioned as per the code for sentiment analysis and Image sentiment collection and action       
+# PRE-REQUISITES:    
+Make sure you have appropriate google authentication for connecting to Google APIs, other external APIs mentioned as per the code for sentiment analysis and Image sentiment collection and action.     
+This MBot is integrated with Facebook messenger platform. Kindly contact us if you want to explore more on it.(joshi.sar@husky.neu.edu, maurya.a@husky.neu, khare.ak@husky.neu.edu, guo.dong@husky.neu.edu)    
+
 The system is end-to-end pipelined        
 Run as follow:     
 
